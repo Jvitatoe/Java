@@ -1,0 +1,119 @@
+ -------BSTTreeList-------
+The file name is words 
+The out file name is BSTTreeOut
+
+Jerrad Vitatoe
+  
+A Binary Search Tree is used:
+Page #  1
+
+
+ROW WORDS COUNT 
+1   A    24  
+2   AM    7  
+3   AND    10  
+4   ARE    14  
+5   AWAY    3  
+6   BABY    19  
+7   BACK    3  
+8   BE    6  
+9   BIG    4  
+10   BIRD    21  
+11   BOAT    5  
+12   BUT    7  
+13   BY    1  
+14   CALLED    2  
+15   CAME    7  
+16   CAR    1  
+17   COULD    8  
+18   COW    6  
+19   DID    12  
+20   DO    2  
+21   DOG    7  
+22   DOWN    7  
+23   EAT    2  
+24   EGG    3  
+25   FIND    3  
+26   FLY    2  
+27   FOR    3  
+28   GET    4  
+29   GO    3  
+30   GOING    2  
+31   HAPPENED    1  
+32   HAVE    5  
+33   HE    39  
+34   HEN    7  
+35   HER    9  
+36   HERE    5  
+37   HIS    11  
+38   HOME    2  
+39   HOW    1  
+40   I    23  
+41   IN    1  
+42   IS    6  
+43   IT    6  
+44   JUMPED    5  
+45   JUST    5  
+46   KITTEN    8  
+47   KNOW    4  
+48   LIKE    1  
+49   LONG    1  
+50   LOOK    1  
+
+
+  -------BSTTreeList-------
+Page #  2
+
+
+51   LOOKED    8  
+52   ME    2  
+53   MOTHER    33  
+54   MUST    2  
+55   MY    13  
+56   NO    2  
+57   NOT    28  
+58   NOW    5  
+59   OF    3  
+60   OH    6  
+61   OLD    1  
+62   ON    8  
+63   OR    2  
+64   OUT    5  
+65   PLANE    4  
+66   PUT    1  
+67   RAN    3  
+68   RIGHT    3  
+69   SAID    22  
+70   SAT    1  
+71   SAW    4  
+72   SAY    1  
+73   SEE    3  
+74   SHE    7  
+75   SNORT    8  
+76   SO    5  
+77   SOMETHING    2  
+78   STOP    4  
+79   THAT    1  
+80   THE    52  
+81   THEN    7  
+82   THERE    3  
+83   THING    5  
+84   THIS    2  
+85   TO    22  
+86   TREE    3  
+87   UP    8  
+88   WALK    2  
+89   WANT    3  
+90   WAS    9  
+91   WAY    7  
+92   WENT    12  
+93   WERE    2  
+94   WHAT    2  
+95   WHERE    6  
+96   WHO    2  
+97   WILL    7  
+98   YES    1  
+99   YOU    15  
+100   YOUR    2  
+The Number of distinct word processed is 100
+ The total number of words processed is 699
