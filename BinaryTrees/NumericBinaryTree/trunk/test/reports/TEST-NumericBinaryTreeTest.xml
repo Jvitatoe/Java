@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuite errors="0" failures="0" hostname="Jerrads-MacBook-Pro.local" name="NumericBinaryTreeTest" skipped="0" tests="33" time="0.118" timestamp="2016-08-30T04:42:17">
+  <properties>
+    <property name="java.vendor" value="Oracle Corporation" />
+    <property name="coverage.summaryxml.dir" value="/Users/JVitatoe/NumericBinaryTree/trunk/coverage/reports/cobertura-summary-xml" />
+    <property name="sun.java.launcher" value="SUN_STANDARD" />
+    <property name="coverage.reports.dir" value="/Users/JVitatoe/NumericBinaryTree/trunk/coverage/reports" />
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers" />
+    <property name="dist" value="/Users/JVitatoe/NumericBinaryTree/trunk/dist" />
+    <property name="lib" value="/Users/JVitatoe/NumericBinaryTree/trunk/lib" />
+    <property name="os.name" value="Mac OS X" />
+    <property name="sun.boot.class.path" value="/Library/Java/JavaVirtualMachines/jdk1.8.0_40.jdk/Contents/Home/jre/lib/resources.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_40.jdk/Contents/Home/jre/lib/rt.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_40.jdk/Contents/Home/jre/lib/sunrsasign.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_40.jdk/Contents/Home/jre/lib/jsse.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_40.jdk/Contents/Home/jre/lib/jce.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_40.jdk/Contents/Home/jre/lib/charsets.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_40.jdk/Contents/Home/jre/lib/jfr.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_40.jdk/Contents/Home/jre/classes" />
+    <property name="TODAY" value="August 29 2016" />
+    <property name="java.vm.specification.vendor" value="Oracle Corporation" />
+    <property name="ant.home" value="/usr/local/Cellar/ant/1.9.7/libexec" />
+    <property name="java.runtime.version" value="1.8.0_40-b27" />
+    <property name="cobertura.dir" value="/Users/JVitatoe/NumericBinaryTree/trunk/lib/cobertura" />
+    <property name="user.name" value="JVitatoe" />
+    <property name="reports" value="/Users/JVitatoe/NumericBinaryTree/trunk/test/reports" />
+    <property name="user.language" value="en" />
+    <property name="build" value="/Users/JVitatoe/NumericBinaryTree/trunk/build" />
+    <property name="coverage.reports.junit.html.dir" value="/Users/JVitatoe/NumericBinaryTree/trunk/coverage/reports/junit-html" />
+    <property name="sun.boot.library.path" value="/Library/Java/JavaVirtualMachines/jdk1.8.0_40.jdk/Contents/Home/jre/lib" />
+    <property name="ant.project.default-target" value="all" />
+    <property name="ant.project.name" value="Generic Build" />
+    <property name="DSTAMP" value="20160829" />
+    <property name="java.version" value="1.8.0_40" />
+    <property name="coverage.html.dir" value="/Users/JVitatoe/NumericBinaryTree/trunk/coverage/reports/cobertura-html" />
+    <property name="version" value="$Revision: 6 $" />
+    <property name="user.timezone" value="America/Denver" />
+    <property name="sun.arch.data.model" value="64" />
+    <property name="http.nonProxyHosts" value="local|*.local|169.254/16|*.169.254/16" />
+    <property name="java.endorsed.dirs" value="/Library/Java/JavaVirtualMachines/jdk1.8.0_40.jdk/Contents/Home/jre/lib/endorsed" />
+    <property name="doc" value="/Users/JVitatoe/NumericBinaryTree/trunk/doc" />
+    <property name="sun.cpu.isalist" value="" />
+    <property name="sun.jnu.encoding" value="UTF-8" />
+    <property name="file.encoding.pkg" value="sun.io" />
+    <property name="file.separator" value="/" />
+    <property name="java.specification.name" value="Java Platform API Specification" />
+    <property name="stylecheck" value="/Users/JVitatoe/NumericBinaryTree/trunk/stylecheck" />
+    <property name="classes.dir" value="/Users/JVitatoe/NumericBinaryTree/trunk/coverage/classes" />
+    <property name="java.class.version" value="52.0" />
+    <property name="src" value="/Users/JVitatoe/NumericBinaryTree/trunk" />
+    <property name="user.country" value="US" />
+    <property name="java.home" value="/Library/Java/JavaVirtualMachines/jdk1.8.0_40.jdk/Contents/Home/jre" />
+    <property name="java.vm.info" value="mixed mode" />
+    <property name="ant.file" value="/Users/JVitatoe/NumericBinaryTree/trunk/build.xml" />
+    <property name="os.version" value="10.10.5" />
+    <property name="path.separator" value=":" />
+    <property name="java.vm.version" value="25.40-b25" />
+    <property name="ant.library.dir" value="/usr/local/Cellar/ant/1.9.7/libexec/lib" />
+    <property name="java.awt.printerjob" value="sun.lwawt.macosx.CPrinterJob" />
+    <property name="sun.io.unicode.encoding" value="UnicodeBig" />
+    <property name="awt.toolkit" value="sun.lwawt.macosx.LWCToolkit" />
+    <property name="ant.file.Generic Build" value="/Users/JVitatoe/NumericBinaryTree/trunk/build.xml" />
+    <property name="socksNonProxyHosts" value="local|*.local|169.254/16|*.169.254/16" />
+    <property name="ftp.nonProxyHosts" value="local|*.local|169.254/16|*.169.254/16" />
+    <property name="coverage.dir" value="/Users/JVitatoe/NumericBinaryTree/trunk/coverage" />
+    <property name="user.home" value="/Users/JVitatoe" />
+    <property name="java.specification.vendor" value="Oracle Corporation" />
+    <property name="test" value="/Users/JVitatoe/NumericBinaryTree/trunk/test" />
+    <property name="coverage.xml.dir" value="/Users/JVitatoe/NumericBinaryTree/trunk/coverage/reports/cobertura-xml" />
+    <property name="java.library.path" value="/Users/JVitatoe/Library/Java/Extensions:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java:." />
+    <property name="java.vendor.url" value="http://java.oracle.com/" />
+    <property name="java.vm.vendor" value="Oracle Corporation" />
+    <property name="gopherProxySet" value="false" />
+    <property name="java.runtime.name" value="Java(TM) SE Runtime Environment" />
+    <property name="sun.java.command" value="org.apache.tools.ant.taskdefs.optional.junit.JUnitTestRunner NumericBinaryTreeTest skipNonTests=false filtertrace=true haltOnError=false haltOnFailure=false formatter=org.apache.tools.ant.taskdefs.optional.junit.OutErrSummaryJUnitResultFormatter showoutput=true outputtoformatters=true logfailedtests=true threadid=0 logtestlistenerevents=false formatter=org.apache.tools.ant.taskdefs.optional.junit.XMLJUnitResultFormatter,/Users/JVitatoe/NumericBinaryTree/trunk/test/reports/TEST-NumericBinaryTreeTest.xml formatter=org.apache.tools.ant.taskdefs.optional.junit.PlainJUnitResultFormatter formatter=org.apache.tools.ant.taskdefs.optional.junit.PlainJUnitResultFormatter,/Users/JVitatoe/NumericBinaryTree/trunk/test/reports/TEST-NumericBinaryTreeTest.txt crashfile=/Users/JVitatoe/NumericBinaryTree/trunk/junitvmwatcher392367034672959007.properties propsfile=/Users/JVitatoe/NumericBinaryTree/trunk/junit6316912285089820598.properties" />
+    <property name="java.class.path" value="/Users/JVitatoe/NumericBinaryTree/trunk/lib/checkstyle.jar:/Users/JVitatoe/NumericBinaryTree/trunk/lib/cobertura/asm-5.0.1.jar:/Users/JVitatoe/NumericBinaryTree/trunk/lib/cobertura/asm-analysis-5.0.1.jar:/Users/JVitatoe/NumericBinaryTree/trunk/lib/cobertura/asm-commons-5.0.1.jar:/Users/JVitatoe/NumericBinaryTree/trunk/lib/cobertura/asm-tree-5.0.1.jar:/Users/JVitatoe/NumericBinaryTree/trunk/lib/cobertura/asm-util-5.0.1.jar:/Users/JVitatoe/NumericBinaryTree/trunk/lib/cobertura/cobertura-2.1.1.jar:/Users/JVitatoe/NumericBinaryTree/trunk/lib/cobertura/commons-lang3-3.3.2.jar:/Users/JVitatoe/NumericBinaryTree/trunk/lib/cobertura/logback-classic-1.0.13.jar:/Users/JVitatoe/NumericBinaryTree/trunk/lib/cobertura/logback-core-1.0.13.jar:/Users/JVitatoe/NumericBinaryTree/trunk/lib/cobertura/oro-2.0.8.jar:/Users/JVitatoe/NumericBinaryTree/trunk/lib/cobertura/slf4j-api-1.7.5.jar:/Users/JVitatoe/NumericBinaryTree/trunk/lib/hamcrest-core.jar:/Users/JVitatoe/NumericBinaryTree/trunk/lib/junit-prev.jar:/Users/JVitatoe/NumericBinaryTree/trunk/lib/junit.jar:/Users/JVitatoe/NumericBinaryTree/trunk/build:/usr/local/Cellar/ant/1.9.7/libexec/lib/ant-launcher.jar:/usr/local/Cellar/ant/1.9.7/libexec/lib/ant.jar:/usr/local/Cellar/ant/1.9.7/libexec/lib/ant-junit.jar:/usr/local/Cellar/ant/1.9.7/libexec/lib/ant-junit4.jar" />
+    <property name="ant.version" value="Apache Ant(TM) version 1.9.7 compiled on April 9 2016" />
+    <property name="TSTAMP" value="2242" />
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification" />
+    <property name="ant.file.type" value="file" />
+    <property name="java.vm.specification.version" value="1.8" />
+    <property name="ant.file.type.Generic Build" value="file" />
+    <property name="sun.os.patch.level" value="unknown" />
+    <property name="sun.cpu.endian" value="little" />
+    <property name="java.io.tmpdir" value="/var/folders/sj/9lvmsg795lz2wyvtnw797n940000gn/T/" />
+    <property name="coverage.reports.junit.xml.dir" value="/Users/JVitatoe/NumericBinaryTree/trunk/coverage/reports/junit-xml" />
+    <property name="java.vendor.url.bug" value="http://bugreport.sun.com/bugreport/" />
+    <property name="instrumented.dir" value="/Users/JVitatoe/NumericBinaryTree/trunk/coverage/instrumented" />
+    <property name="java.awt.graphicsenv" value="sun.awt.CGraphicsEnvironment" />
+    <property name="os.arch" value="x86_64" />
+    <property name="java.ext.dirs" value="/Users/JVitatoe/Library/Java/Extensions:/Library/Java/JavaVirtualMachines/jdk1.8.0_40.jdk/Contents/Home/jre/lib/ext:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java" />
+    <property name="user.dir" value="/Users/JVitatoe/NumericBinaryTree/trunk" />
+    <property name="line.separator" value="&#xa;" />
+    <property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM" />
+    <property name="basedir" value="/Users/JVitatoe/NumericBinaryTree/trunk" />
+    <property name="ant.java.version" value="1.8" />
+    <property name="ant.core.lib" value="/usr/local/Cellar/ant/1.9.7/libexec/lib/ant.jar" />
+    <property name="file.encoding" value="UTF-8" />
+    <property name="java.specification.version" value="1.8" />
+    <property name="ant.project.invoked-targets" value="test" />
+  </properties>
+  <testcase classname="NumericBinaryTreeTest" name="equalsNullTest" time="0.002" />
+  <testcase classname="NumericBinaryTreeTest" name="emptyTreeTest" time="0.0" />
+  <testcase classname="NumericBinaryTreeTest" name="emptyTreeSetLeftChildException" time="0.001" />
+  <testcase classname="NumericBinaryTreeTest" name="postorderValuesTest" time="0.001" />
+  <testcase classname="NumericBinaryTreeTest" name="serializationDefaultEmptyTest" time="0.033" />
+  <testcase classname="NumericBinaryTreeTest" name="equalsMTTest" time="0.0" />
+  <testcase classname="NumericBinaryTreeTest" name="mutationTest" time="0.001" />
+  <testcase classname="NumericBinaryTreeTest" name="multiNodeConstructionTest" time="0.0" />
+  <testcase classname="NumericBinaryTreeTest" name="emptyTreeGetRightChildException" time="0.001" />
+  <testcase classname="NumericBinaryTreeTest" name="serializationDefaultNonemptyTest" time="0.004" />
+  <testcase classname="NumericBinaryTreeTest" name="preorderValuesTest" time="0.0" />
+  <testcase classname="NumericBinaryTreeTest" name="oneNodeSecondaryTest" time="0.0" />
+  <testcase classname="NumericBinaryTreeTest" name="equalsOtherClassTest" time="0.0" />
+  <testcase classname="NumericBinaryTreeTest" name="inorderValuesTest" time="0.0" />
+  <testcase classname="NumericBinaryTreeTest" name="emptyTreeSetValueException" time="0.0" />
+  <testcase classname="NumericBinaryTreeTest" name="emptyTreeSetRightChildException" time="0.0" />
+  <testcase classname="NumericBinaryTreeTest" name="emptyTreeGetLeftChildException" time="0.0" />
+  <testcase classname="NumericBinaryTreeTest" name="iteratorTest" time="0.001" />
+  <testcase classname="NumericBinaryTreeTest" name="illegalValueConstructorException" time="0.0" />
+  <testcase classname="NumericBinaryTreeTest" name="serializationNonemptyTest" time="0.003" />
+  <testcase classname="NumericBinaryTreeTest" name="serializationEmptyTest" time="0.0" />
+  <testcase classname="NumericBinaryTreeTest" name="emptyTreeNumberOfLeavesException" time="0.0" />
+  <testcase classname="NumericBinaryTreeTest" name="emptyTreeGetValueException" time="0.0" />
+  <testcase classname="NumericBinaryTreeTest" name="treeToString" time="0.001" />
+  <testcase classname="NumericBinaryTreeTest" name="postorderNodesTest" time="0.001" />
+  <testcase classname="NumericBinaryTreeTest" name="oneNodeTest" time="0.0" />
+  <testcase classname="NumericBinaryTreeTest" name="hashCodeTest" time="0.0" />
+  <testcase classname="NumericBinaryTreeTest" name="equalsStandardTest" time="0.0" />
+  <testcase classname="NumericBinaryTreeTest" name="inorderNodesTest" time="0.001" />
+  <testcase classname="NumericBinaryTreeTest" name="emptyTreeIsLeafException" time="0.0" />
+  <testcase classname="NumericBinaryTreeTest" name="equalsRootOnlyTest" time="0.0" />
+  <testcase classname="NumericBinaryTreeTest" name="preorderNodesTest" time="0.0" />
+  <testcase classname="NumericBinaryTreeTest" name="valuesTest" time="0.001" />
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
